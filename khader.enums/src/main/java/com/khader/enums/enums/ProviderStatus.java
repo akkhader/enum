@@ -1,6 +1,5 @@
 package com.khader.enums.enums;
 
-import com.ajex.core.web.enums.LookupLabelProvider;
 import lombok.Getter;
 import org.apache.commons.lang3.StringUtils;
 
